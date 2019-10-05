@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Save Application</string>
     <string name="coins_button">+500 Coins</string>
+    <string name="total_coins">Coins:</string>
 </resources>
